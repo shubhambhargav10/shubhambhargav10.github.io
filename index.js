@@ -22,7 +22,7 @@ menuIcon.onclick = () => {
 
     function NewTab() {
       window.open(
-        "https://drive.google.com/file/d/1aIx7oXswHginslfjiUfM6fRxb4gcTBjX/view?usp=sharing",
+        "https://drive.google.com/file/d/18U3ofDj0adzWDgms1exw5UDelxjDRTyo/view?usp=sharing",
         "_blank"
       );
     }
@@ -76,7 +76,7 @@ ScrollReveal().reveal('.home-content p, .about-content', { origin:'left'});
 // *===============================  typed js==================================
 
 const typed = new Typed('.multiple-text', {
-  strings: ['Full Stack Web Developer', 'Backend Developer'],
+  strings: ['Full Stack Web Developer', 'Frontend Developer', 'Backend Developer'],
   typeSpeed: 100,
   backSpeed: 100,
   backdelay: 1000,
