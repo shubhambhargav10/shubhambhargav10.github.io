@@ -22,7 +22,7 @@ menuIcon.onclick = () => {
 
     function NewTab() {
       window.open(
-        "https://drive.google.com/file/d/1PXOU1H-TZX76fuog7kURLP1KoIOC_OD1/view?usp=sharing",
+        "https://drive.google.com/file/d/1JkMqpnSjn6bGHnuxtqxlQFp7RGkGE0MX/view?usp=sharing",
         "_blank"
       );
     }
