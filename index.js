@@ -9,10 +9,21 @@ menuIcon.onclick = () => {
 };
 
 // *=============================== github calender ==================================
-    GitHubCalendar(".calendar", "shubhambhargav10");
+    // GitHubCalendar(".calendar", "shubhambhargav10");
 
-    // or enable responsive functionality:
-    GitHubCalendar(".calendar", "shubhambhargav10", { responsive: true });
+    // // or enable responsive functionality:
+    // GitHubCalendar(".calendar", "shubhambhargav10", { responsive: true });
+    const container = document.querySelector('.react-activity-calendar');
+
+// Replace 'YourUsername' with your GitHub username
+const username = 'Shubhambhargav10';
+
+// Initialize the GitHubChart
+GitHubChart.draw(container, username, {
+    responsive: true, // Optional: Make the chart responsive
+    colors: ['white', 'green'], // Optional: Set the colors for the tiles
+});
+
 
 // *=============================== resume open in new tab ==================================
 

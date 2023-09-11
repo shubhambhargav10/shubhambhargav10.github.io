@@ -1,0 +1,10 @@
+/* Style your GitHub calendar here */
+.github-calendar {
+    border-collapse: collapse;
+}
+
+.github-calendar td {
+    width: 12px;
+    height: 12px;
+    border: 1px solid #ccc;
+}
