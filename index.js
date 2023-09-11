@@ -9,10 +9,10 @@ menuIcon.onclick = () => {
 };
 
 // *=============================== github calender ==================================
-    GitHubCalendar(".calendar", "shubhambhargav10");
+    // GitHubCalendar(".calendar", "shubhambhargav10");
 
-    // or enable responsive functionality:
-    GitHubCalendar(".calendar", "shubhambhargav10", { responsive: true });
+    // // or enable responsive functionality:
+    // GitHubCalendar(".calendar", "shubhambhargav10", { responsive: true });
 
 // *=============================== resume open in new tab ==================================
 

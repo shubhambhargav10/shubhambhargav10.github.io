@@ -464,6 +464,14 @@ span {
     color: rgb(0, 0, 0);
   }
  
+  .calendar {
+    font-family: Helvetica, arial;
+    border: 1px solid #DDDDDD;
+    border-radius: 3px;
+    /* min-height: 243px; */
+    text-align: center;
+    margin: 0 auto;
+}
    
   #github-stats{
     margin-top: 5%;
@@ -693,7 +701,7 @@ span {
        
     }  
 
-
+    
   }
   @media (max-width: 768px) {
     #menu-icon {
@@ -759,6 +767,7 @@ margin-bottom: 3rem;
 .contact form .input-box input {
   width: 100%;
 }
+
   }
   @media (max-width: 365px){
     .home-img img {
@@ -771,6 +780,7 @@ margin-bottom: 3rem;
       text-align: center;
       margin-top: 2rem;
     }
+   
   }
   .calender {
 margin: 20px;
